@@ -1,5 +1,5 @@
 # vandervolume
-Compute the van der Waal volume of molecules using brute-force MC simulated darts.
+Compute the van der Waal volume of molecules using brute-force MC simulated darts. Why? Because why not?
 
 Usage:
 
