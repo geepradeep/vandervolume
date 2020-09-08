@@ -15,4 +15,4 @@ Example:
     100%|██████████| 10000/10000 [00:00<00:00, 26070.65it/s]
     Approximate volume is 14.75
 
-![](oxygen.jpg "Image output from matplotlib")
+![](oxygen.png "Image output from matplotlib")
