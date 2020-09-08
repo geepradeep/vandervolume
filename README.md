@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/geepradeep/vandervolume.svg?branch=master)](https://travis-ci.org/geepradeep/vandervolume)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4018406.svg)](https://doi.org/10.5281/zenodo.4018406)
+
 # vandervolume
 Compute the van der Waal volume of molecules using brute-force MC simulated darts. Why? Because why not?
 
@@ -16,3 +19,6 @@ Example:
     Approximate volume is 14.75
 
 ![](oxygen.png "Image output from matplotlib")
+
+License: The unlicense. Use as you wish.
+Citation: Gurunathan, P. K., https://github.com/geepradeep/vandervolume/, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4018406.svg)](https://doi.org/10.5281/zenodo.4018406)
