@@ -4,6 +4,10 @@
 # vandervolume
 Compute the van der Waals volume of molecules using brute-force MC simulated darts. Why? Because why not?
 
+Prerequisites can be installed via:
+
+    pip install joblib tqdm --upgrade matplotlib
+
 Usage:
 
     python vandervolume.py <input.xyz>
