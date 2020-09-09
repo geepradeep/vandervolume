@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4018406.svg)](https://doi.org/10.5281/zenodo.4018406)
 
 # vandervolume
-Compute the van der Waal volume of molecules using brute-force MC simulated darts. Why? Because why not?
+Compute the van der Waals volume of molecules using brute-force MC simulated darts. Why? Because why not?
 
 Usage:
 
