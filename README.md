@@ -10,7 +10,7 @@ Usage:
 
 Change the parallel_flag from False to True if needed (example: very large molecules).
 
-Default counter = 10000. Increase for larger molecules.
+Default # of iterations = 10000. Increase for larger molecules.
 
 Example:
 
